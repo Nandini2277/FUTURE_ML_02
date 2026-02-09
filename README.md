@@ -186,15 +186,6 @@ Output:
 - Confidence: 41.25%
 - Priority: Medium
 
-## Future Enhancements
-
-- Deep learning models (BERT, transformers)
-- Sentiment analysis integration
-- Automated response suggestions
-- Historical trend analysis
-- Performance dashboards
-- A/B testing framework
-
 ## Data Requirements
 
 Training data should include:
@@ -207,13 +198,4 @@ Training data should include:
 ## Acknowledgments
 
 Built with scikit-learn, pandas, and matplotlib for text classification and NLP applications.
-
-## Support
-
-- Issues: GitHub Issues
-- Documentation: Project Wiki
-- Notebook: Includes detailed comments and explanations
-
----
-
 Designed for IT support teams to automate ticket classification and improve response efficiency.
